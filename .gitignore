@@ -1,0 +1,6 @@
+imgs
+models
+cc/migrations
+cc/__pycache__
+ter/__pycache__
+.idea/
